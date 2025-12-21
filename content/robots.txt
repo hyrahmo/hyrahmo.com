@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hyrahmo.com/sitemap.xml
+Sitemap: https://hyrahmo.com/index.xml
