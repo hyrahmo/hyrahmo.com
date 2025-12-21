@@ -1,12 +1,12 @@
 ---
-title: "index"
+title: Français
 date: 2025-12-21
 lastmod: 2025-12-21
-lang: "fr"
-description: "Translation stub for index"
-tags: [fr, stub]
-# canonicalUrl:
-#  - ""
+lang: fr
+description: Translation stub for index
+tags:
+  - fr
+  - stub
 draft: false
 enableToc: true
 comments: true

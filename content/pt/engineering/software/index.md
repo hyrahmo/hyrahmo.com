@@ -1,0 +1,27 @@
+---
+title: "index"
+date: 2025-12-21
+lastmod: 2025-12-21
+lang: "pt"
+description: "Translation stub for index"
+tags: [pt, stub]
+# canonicalUrl:
+#  - ""
+draft: false
+enableToc: true
+comments: true
+---
+
+> [!note] 🌍 Translations
+> 🇷🇺 **[[ru/engineering/software/index|Русский]]** • 🇺🇸 **[[en/engineering/software/index|English]]** • 🇨🇳 **[[zh/engineering/software/index|中文]]** • 🇪🇸 **[[es/engineering/software/index|Español]]** • 🇸🇦 **[[ar/engineering/software/index|العربية]]** • 🇫🇷 **[[fr/engineering/software/index|Français]]** • 🇩🇪 **[[de/engineering/software/index|Deutsch]]** • 📡 **[RSS](index.xml)**
+
+---
+
+<!-- TRANSLATE_START -->
+*(Content to be translated to Portuguese)...*
+<!-- TRANSLATE_END -->
+
+---
+
+> [!abstract] 📬 Connect
+> - **X (Twitter)**: [ @hyrahmo ](https://twitter.com/hyrahmo)

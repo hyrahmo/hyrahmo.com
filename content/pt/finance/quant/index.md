@@ -1,0 +1,27 @@
+---
+title: "index"
+date: 2025-12-21
+lastmod: 2025-12-21
+lang: "pt"
+description: "Translation stub for index"
+tags: [pt, stub]
+# canonicalUrl:
+#  - ""
+draft: false
+enableToc: true
+comments: true
+---
+
+> [!note] 🌍 Translations
+> 🇷🇺 **[[ru/finance/quant/index|Русский]]** • 🇺🇸 **[[en/finance/quant/index|English]]** • 🇨🇳 **[[zh/finance/quant/index|中文]]** • 🇪🇸 **[[es/finance/quant/index|Español]]** • 🇸🇦 **[[ar/finance/quant/index|العربية]]** • 🇫🇷 **[[fr/finance/quant/index|Français]]** • 🇩🇪 **[[de/finance/quant/index|Deutsch]]** • 📡 **[RSS](index.xml)**
+
+---
+
+<!-- TRANSLATE_START -->
+*(Content to be translated to Portuguese)...*
+<!-- TRANSLATE_END -->
+
+---
+
+> [!abstract] 📬 Connect
+> - **X (Twitter)**: [ @hyrahmo ](https://twitter.com/hyrahmo)
